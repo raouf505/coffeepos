@@ -1,0 +1,1 @@
+An OpenSource Point of Sale solution for NetSuite ERP written in Java.  Supports a wide variety of ESC/POS and JavaPOS hardware including thermal receipt printers, bar code scanners, cash drawers, and scales.  Current configuration will support both retail and restaurants.
